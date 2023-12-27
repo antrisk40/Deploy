@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "NODE_OPTIONS='--max-old-space-size=4096 --max-http-header-size=16384 --max-semi-space-size=536' next start",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
